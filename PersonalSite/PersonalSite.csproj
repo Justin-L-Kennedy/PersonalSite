@@ -67,7 +67,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\styles.css" />
+    <Content Include="examples.html" />
+    <Content Include="images\bloodmoon.jpg" />
+    <Content Include="images\cityscape.jpg" />
+    <Content Include="images\evergladesun.jpg" />
+    <Content Include="images\goldenhoursun.jpg" />
+    <Content Include="images\mistymoon.jpg" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
+    <Content Include="_archivetitan\examples.html" />
+    <Content Include="_archivetitan\images\bloodmoon.jpg" />
+    <Content Include="_archivetitan\images\cityscape.jpg" />
+    <Content Include="_archivetitan\images\evergladesun.jpg" />
+    <Content Include="_archivetitan\images\goldenhoursun.jpg" />
+    <Content Include="_archivetitan\images\mistymoon.jpg" />
+    <Content Include="_archivetitan\index.html" />
+    <Content Include="_archivetitan\styles.css" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
